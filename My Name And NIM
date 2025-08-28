@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    print("NAMA = DANNY ALVIANSYAH\n); //
+    print("NIM = 09011282530093\n");
+
+    return 0;
+}
